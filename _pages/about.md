@@ -7,9 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Welcome to my personal website!
+I am a PhD student in Computer Science at the University of Waterloo and part of Waterloo Advanced Systems Lab (WASL).
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My interests are in computer systems, networking, cloud computing, and systems for AI. I’m interested in understanding how systems can be designed to be more efficient, scalable, and reliable, particularly as computing workloads continue to evolve.
+
+Prior to starting my PhD, I completed my undergraduate degree in computer engineering. I have experience in both hardware and software, as well as programming, algorithms, and system design. I enjoy working on challenging technical problems, learning new technologies, and building systems that solve real-world problems.
+
+## Research Interests
+* **Systems for LLMs:** Optimizing performance, scalability, and safety guardrails for generative models.
+* **Autonomous Navigation & RL:** Applied reinforcement learning for UAV path planning and trajectory optimization.
+
+## Recent News
+* **July 2026:** Our paper *"Empirical Evaluation of Proximal Policy Optimization for UAV Navigation in Constrained Indoor Environments"* was presented at the 2026 IEEE AEECT conference in Amman, Jordan!
+
+## Contact
+Feel free to reach out via email or connect with me through the links on the sidebar.
 
 A data-driven personal website
 ======
