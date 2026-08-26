@@ -21,7 +21,6 @@ Prior to starting my PhD, I completed my undergraduate degree in computer engine
 ## Recent News
 * **July 2026:** Our paper *"Empirical Evaluation of Proximal Policy Optimization for UAV Navigation in Constrained Indoor Environments"* was presented at the 2026 IEEE AEECT conference in Amman, Jordan!
 
-## Contact
-Feel free to reach out via email or connect with me through the links on the sidebar.
+
 
 
