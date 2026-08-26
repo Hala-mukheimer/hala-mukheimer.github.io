@@ -21,6 +21,18 @@ Prior to starting my PhD, I completed my undergraduate degree in computer engine
 ## Recent News
 * **July 2026:** Our paper *"Empirical Evaluation of Proximal Policy Optimization for UAV Navigation in Constrained Indoor Environments"* was presented at the 2026 IEEE AEECT conference in Amman, Jordan!
 
+## Contact Information
+Hala Mukheimer
+
+David Cheriton School of Computer Science
+University of Waterloo
+200 University Avenue West
+Waterloo, ON, N2L 3G1
+Canada
+
+Office: DC 3552
+E-mail: hala.mukheimer@uwaterloo.ca
+
 
 
 
