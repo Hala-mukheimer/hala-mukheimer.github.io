@@ -2,7 +2,7 @@
 title: "Empirical Evaluation of Proximal Policy Optimization for UAV Navigation in Constrained Indoor Environments"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2026-07-28-uav-ppo-navigation
 excerpt: 'An empirical evaluation of reinforcement learning-based UAV path planning using Proximal Policy Optimization (PPO) in a high-fidelity AirSim indoor warehouse environment.'
 date: 2026-07-28
 venue: '2026 IEEE Jordan Conference on Applied Electrical Engineering and Computing Technologies (AEECT)'
