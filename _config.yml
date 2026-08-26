@@ -23,7 +23,7 @@ repository               : "hala-mukheimer/hala-mukheimer.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ProfilePic.jpeg"
   name             : "Hala Mukheimer"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Computer Science at University of Waterloo"
