@@ -17,7 +17,6 @@ Autonomous navigation of unmanned aerial vehicles (UAVs) in constrained indoor e
 * **Conference Location:** Amman, Jordan
 * **Date of Conference:** July 28–30, 2026
 * **Publisher:** IEEE
-* **DOI:** [10.1109/AEECT69724.2026.11657821](https://doi.org/10.1109/AEECT69724.2026.11657821)
 * **Link:** [IEEE Xplore Page](https://ieeexplore.ieee.org/document/11657821)
   
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+#Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default #delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
