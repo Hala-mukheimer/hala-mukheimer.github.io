@@ -12,8 +12,8 @@ redirect_from:
 <a href="{{ base_path }}/files/Hala_Mukheimer_CV.pdf" class="btn btn--primary" target="_blank">Download Full CV (PDF)</a>
 
 ## Education
-* **Ph.D. in Computer Science**, University of Waterloo, Canada *(Present)*
-* **B.Sc. in Computer Engineering**, University of Jordan *(Graduated July 2025)*
+* **Ph.D. in Computer Science**, University of Waterloo *(In Progress)*
+* **B.Sc. in Computer Engineering**, University of Jordan, July 2025 *(GPA: 3.66/4.0 - Excellent)*
 
 ## Work & Teaching Experience
 * **Teaching Assistant (CS 230)**, University of Waterloo *(Spring 2026)*
