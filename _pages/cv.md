@@ -15,7 +15,7 @@ redirect_from:
 * **Ph.D. in Computer Science**, University of Waterloo *(In Progress)*
 * **B.Sc. in Computer Engineering**, University of Jordan, July 2025 *(GPA: 3.66/4.0 - Excellent)*
 
-## Work & Teaching Experience
+## Work Experience
 * **Teaching Assistant (CS 230)**, University of Waterloo *(May 2026 - August 2026)*
 * **ASIC Verification Intern**, Golden Electronics, Amman, Jordan *(March 2025 – May 2025)*
 * **Social Media Designer**, Deanship of Student Affairs, University of Jordan *(July 2022 – September 2022)*
