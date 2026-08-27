@@ -6,7 +6,7 @@ permalink: /publication/2026-07-28-uav-ppo-navigation
 excerpt: 'An empirical evaluation of reinforcement learning-based UAV path planning using Proximal Policy Optimization (PPO) in a high-fidelity AirSim indoor warehouse environment.'
 date: 2026-07-28
 venue: '2026 IEEE Jordan Conference on Applied Electrical Engineering and Computing Technologies (AEECT)'
-paperurl: 'files/Empirical_Evaluation_of_Proximal_Policy_Optimization_for_UAV_Navigation_in_Constrained_Indoor_Environments.pdf'
+paperurl:'https://hala-mukheimer.github.io/files/Empirical_Evaluation_of_Proximal_Policy_Optimization_for_UAV_Navigation_in_Constrained_Indoor_Environments.pdf'
 citation: 'Ashraf Suyyagh, Tasneem Al-Qat, Hala Mukheimer, Adham Alsharkawi, and Asma Abdel Karim. (2026). &quot;Empirical Evaluation of Proximal Policy Optimization for UAV Navigation in Constrained Indoor Environments.&quot; <i>2026 IEEE Jordan Conference on Applied Electrical Engineering and Computing Technologies (AEECT)</i>.'
 ---
 
