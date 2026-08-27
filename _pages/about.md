@@ -14,6 +14,10 @@ My interests are in computer systems, networking, cloud computing, and systems f
 
 Prior to starting my PhD, I completed my undergraduate degree in computer engineering. I have experience in both hardware and software, as well as programming, algorithms, and system design. I enjoy working on challenging technical problems, learning new technologies, and building systems that solve real-world problems.
 
+## Education
+* **Ph.D. in Computer Science**, University of Waterloo *(In Progress)*
+* **B.Sc. in Computer Engineering**, University of Jordan, July 2025 *(GPA: 3.66/4.0 - Excellent)*
+  
 ## Research Interests
 * **Systems for LLMs:** Optimizing performance, scalability, and safety guardrails for generative models.
 * **Autonomous Navigation & RL:** Applied reinforcement learning for UAV path planning and trajectory optimization.
