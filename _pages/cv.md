@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="{{ base_path }}/files/Hala_Mukheimer_CV.pdf" class="btn btn--primary" target="_blank">Download Full CV (PDF)</a>
+<a href="{{ base_path }}/files/Hala_Mukheimer_CV.pdf" class="btn btn--info" target="_blank">Download Full CV (PDF)</a>
 
 ## Education
 * **Ph.D. in Computer Science**, University of Waterloo *(In Progress)*
