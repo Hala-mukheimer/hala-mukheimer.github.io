@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Welcome to my personal website!
-I am a PhD student in Computer Science at the University of Waterloo and part of Waterloo Advanced Systems Lab (WASL).
+I am a Ph.D. student in Computer Science at the [University of Waterloo](https://uwaterloo.ca/), affiliated with the [Waterloo Advanced Systems Lab (WASL)](https://wasl.cs.uwaterloo.ca/) within the [Systems and Networking group](https://syn.uwaterloo.ca/). I am advised by [Prof. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswany/).
 
 My interests are in computer systems, networking, cloud computing, and systems for AI. I’m interested in understanding how systems can be designed to be more efficient, scalable, and reliable, particularly as computing workloads continue to evolve.
 
