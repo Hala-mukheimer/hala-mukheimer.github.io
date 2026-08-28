@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="{{ base_path }}/files/Hala_Mukheimer_CV.pdf" class="btn btn--info" target="_blank">Download Full CV (PDF)</a>
+<a href="{{ base_path }}/files/CV - Hala Mukheimer.pdf" class="btn btn--info" target="_blank">Download Full CV (PDF)</a>
 
 <p><small><em>(A complete list of course projects, research details, and full descriptions is available in the PDF above)</em></small></p>
 
