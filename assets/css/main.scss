@@ -38,16 +38,6 @@
     "layout/json_cv"
 ;
 
-/* Reset any sticky positioning for sidebar and footer elements */
-/*.sidebar, 
-.sidebar--sticky,
-.page__footer, 
-.page__footer-follow {
-  position: static !important;
-  top: auto !important;
-  bottom: auto !important;
-}*/
-
 /* Keep footer at the end of content naturally */
 /*html, body {
   height: auto !important;
@@ -63,7 +53,22 @@
   clear: both;
   width: 100%;
 }*/
-/* Modern Flexbox Sticky Footer */
+
+/* --- Clean Layout & Footer Fix --- */
+
+/* Fix 1: Ensure float clearance so page height calculates correctly */
+.page, 
+.archive, 
+.page__content, 
+#main {
+  &::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+/* Fix 2: Sticky footer using flexbox layout */
 html, body {
   height: 100%;
   margin: 0;
@@ -77,11 +82,11 @@ body {
 }
 
 #main {
-  flex: 1 0 auto; /* Expands to fill empty space on short pages */
+  flex: 1 0 auto;
 }
 
 .page__footer {
-  flex-shrink: 0; /* Keeps footer pinned to the bottom when content is short */
+  flex-shrink: 0;
   position: relative !important;
   clear: both;
   width: 100%;
