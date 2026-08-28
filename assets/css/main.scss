@@ -39,11 +39,27 @@
 ;
 
 /* Reset any sticky positioning for sidebar and footer elements */
-.sidebar, 
+/*.sidebar, 
 .sidebar--sticky,
 .page__footer, 
 .page__footer-follow {
   position: static !important;
   top: auto !important;
   bottom: auto !important;
+}*/
+
+/* Keep footer at the end of content naturally */
+html, body {
+  height: auto !important;
+  min-height: 100%;
+}
+
+#main {
+  min-height: auto !important;
+}
+
+.page__footer {
+  position: static !important;
+  clear: both;
+  width: 100%;
 }
