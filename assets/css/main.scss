@@ -54,13 +54,12 @@
   width: 100%;
 }*/
 
-/* --- Clean Layout & Sticky Footer Fix --- */
+/* Clean Footer Positioning Fix */
 
-/* Fix 1: Ensure float clearance for sidebar layout */
+/* 1. Force container height clearance so sidebars don't collapse main height */
+#main, 
 .page, 
-.archive, 
-.page__content, 
-#main {
+.archive {
   &::after {
     content: "";
     display: table;
@@ -68,25 +67,13 @@
   }
 }
 
-/* Fix 2: Keep body flexbox without disrupting inner main grids */
-html {
-  height: 100%;
-}
-
-body {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-  margin: 0;
-}
-
+/* 2. Position footer relative to natural document flow */
 #main {
-  flex: 1 0 auto;
-  width: 100%;
+  min-height: calc(100vh - 160px); /* Pushes footer down only on short pages */
 }
 
 .page__footer {
-  flex-shrink: 0;
+  position: relative !important;
   clear: both;
   width: 100%;
 }
