@@ -13,7 +13,7 @@ redirect_from:
 
 <p><small><em>(A complete list of course projects, research details, and full descriptions is available in the PDF above)</em></small></p>
 
-## Education
+# Education
 * **Ph.D. in Computer Science**, University of Waterloo *(May 2026 – Present)*
 * **B.Sc. in Computer Engineering**, University of Jordan, July 2025 *(GPA: 3.66/4.0 - Excellent)*
 
