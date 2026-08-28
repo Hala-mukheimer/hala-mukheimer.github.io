@@ -37,3 +37,17 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Force footer to stay at the bottom of short pages */
+html, body {
+  height: 100%;
+}
+
+#main {
+  min-height: calc(100vh - 160px);
+}
+
+.page__footer {
+  position: relative;
+  clear: both;
+}
