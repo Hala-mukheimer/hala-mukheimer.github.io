@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 <a href="{{ base_path }}/files/Hala_Mukheimer_CV.pdf" class="btn btn--info" target="_blank">Download Full CV (PDF)</a>
-*(A complete list of course projects, research details, and full descriptions is available in the PDF above)*
+
+<p><small><em>(A complete list of course projects, research details, and full descriptions is available in the PDF above)</em></small></p>
 
 ## Education
 * **Ph.D. in Computer Science**, University of Waterloo *(May 2026 – Present)*
