@@ -27,7 +27,7 @@ redirect_from:
 ---
 
 # Publications
-1. **"Empirical Evaluation of Proximal Policy Optimization for UAV Navigation in Constrained Indoor Environments."** Ashraf Suyyagh, Tasneem Al-Qat, **Hala Mukheimer**, Adham Alsharkawi, and Asma Abdel Karim. *IEEE Jordan Conference on Applied Electrical Engineering and Computing Technologies (AEECT)*, 2026.
+*See my full list of publications and papers on the [Publications page](/publications/).*
 
 ---
 
