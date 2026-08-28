@@ -38,16 +38,18 @@
     "layout/json_cv"
 ;
 
-/* Force footer to stay at the bottom of short pages */
+/* Keep footer at the end of content naturally */
 html, body {
-  height: 100%;
+  height: auto !important;
+  min-height: 100%;
 }
 
 #main {
-  min-height: calc(100vh - 160px);
+  min-height: auto !important;
 }
 
 .page__footer {
-  position: relative;
+  position: static !important;
   clear: both;
+  width: 100%;
 }
