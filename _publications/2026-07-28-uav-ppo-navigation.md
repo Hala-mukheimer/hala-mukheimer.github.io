@@ -17,6 +17,6 @@ Autonomous navigation of unmanned aerial vehicles (UAVs) in constrained indoor e
 * **Conference Location:** Amman, Jordan
 * **Date of Conference:** July 28–30, 2026
 * **Publisher:** IEEE
-* **Link:** [IEEE Xplore Page](https://ieeexplore.ieee.org/document/11657821)
+* **Link:** <a href="https://ieeexplore.ieee.org/document/11657821" target="_blank" rel="noopener noreferrer">IEEE Xplore Page</a>
   
 
