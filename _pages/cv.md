@@ -41,9 +41,10 @@ redirect_from:
 
 # Leadership & Volunteering
 * **President**, [Zenon](https://engzenon.com/home) ECE Academic Committee *(June 2022 – Oct 2023)*
-  Led an academic volunteer committee dedicated to empowering Electrical and Computer Engineering students through comprehensive academic support, study resources, guidance, and community events.
+  * Led an academic volunteer committee dedicated to empowering Electrical and Computer Engineering students through comprehensive academic support, study resources, guidance, and community events.
 
 ---
 
 # Languages
-* **Arabic** (Native) | **English** (Fluent, PTE: 90/90)
+* **Arabic** (Native)
+* **English** (Fluent, PTE: 90/90)
