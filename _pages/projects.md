@@ -27,7 +27,7 @@ A summary of graduate research proposals and undergraduate systems engineering p
 ### Autonomous UAV Path Planning in AirSim Using Reinforcement Learning (Graduation Project)
 * **Focus:** Autonomous Systems & Reinforcement Learning
 * **Overview:** Conducted an empirical evaluation of Proximal Policy Optimization (PPO) algorithms for autonomous Unmanned Aerial Vehicle (UAV) navigation in dense, indoor simulated environments using Microsoft AirSim.
-* **Project Artifacts:** [View Project Documentation & Code on Google Drive](https://drive.google.com/drive/folders/1ciunfjpyGlolLorxJATnU0cbZfN5AWOY){: .btn .btn--primary target="_blank" rel="noopener noreferrer"}
+* **Project Artifacts:** <a href="https://drive.google.com/drive/folders/1ciunfjpyGlolLorxJATnU0cbZfN5AWOY" target="_blank" rel="noopener noreferrer">View Project Documentation & Code on Google Drive</a>
 
 ### Element Search HLSM & 5-Stage Pipelined Processor Architecture
 * **Focus:** Digital Systems & Hardware Design
