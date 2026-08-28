@@ -10,20 +10,39 @@ redirect_from:
 {% include base_path %}
 
 <a href="{{ base_path }}/files/Hala_Mukheimer_CV.pdf" class="btn btn--info" target="_blank">Download Full CV (PDF)</a>
+*(A complete list of course projects, research details, and full descriptions is available in the PDF above)*
 
 ## Education
-* **Ph.D. in Computer Science**, University of Waterloo *(In Progress)*
+* **Ph.D. in Computer Science**, University of Waterloo *(May 2026 – Present)*
 * **B.Sc. in Computer Engineering**, University of Jordan, July 2025 *(GPA: 3.66/4.0 - Excellent)*
 
-## Work Experience
-* **Teaching Assistant (CS 230)**, University of Waterloo *(May 2026 - August 2026)*
+---
+
+# Experience
+* **Graduate Research & Teaching Assistant**, University of Waterloo *(May 2026 – Present)*
 * **ASIC Verification Intern**, Golden Electronics, Amman, Jordan *(March 2025 – May 2025)*
-* **Social Media Designer**, Deanship of Student Affairs, University of Jordan *(July 2022 – September 2022)*
+* **Social Media Designer**, Deanship of Student Affairs, University of Jordan *(July 2022 – Sept 2022)*
 
-## Awards & Scholarships
-* **International Doctoral Student Award (IDSA)**, University of Waterloo
-* **Graduate Research Studentship (GRS)**, University of Waterloo
+---
 
-## Leadership & Volunteering
-* **President**, [Zenon](https://engzenon.com/home) *(Jun 2022 – Oct 2023)*  
+# Publications
+1. **"Empirical Evaluation of Proximal Policy Optimization for UAV Navigation in Constrained Indoor Environments."** Ashraf Suyyagh, Tasneem Al-Qat, **Hala Mukheimer**, Adham Alsharkawi, and Asma Abdel Karim. *IEEE Jordan Conference on Applied Electrical Engineering and Computing Technologies (AEECT)*, 2026.
+
+---
+
+# Selected Projects
+* **Pre-Processing Guardrails for Emoji-Based Adversarial Jailbreak Defense in LLMs** *(CS886, UWaterloo)*
+* **AI-Assisted Lab Summaries: Progressive Disclosure Interfaces for Patient Portals** *(CS649, UWaterloo)*
+* **Autonomous UAV Path Planning in AirSim Using Reinforcement Learning** *(Graduation Project, UJordan)*
+* **Element Search HLSM & 5-Stage Pipelined Processor Architecture** *(UJordan)*
+
+---
+
+# Leadership & Volunteering
+* **President**, [Zenon](https://engzenon.com/home) ECE Academic Committee *(June 2022 – Oct 2023)*
   Led an academic volunteer committee dedicated to empowering Electrical and Computer Engineering students through comprehensive academic support, study resources, guidance, and community events.
+
+---
+
+# Languages
+* **Arabic** (Native) | **English** (Fluent, PTE: 90/90)
