@@ -9,7 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="{{ base_path }}/files/CV - Hala Mukheimer.pdf" class="btn btn--info" target="_blank">Download Full CV (PDF)</a>
+<style>
+  .cv-button {
+    display: inline-block;
+    padding: 8px 18px;
+    background-color: #0885da;
+    color: #ffffff !important;
+    text-decoration: none !important;
+    border-radius: 6px;
+    font-size: 0.95em;
+    font-weight: 600;
+    transition: background-color 0.2s ease;
+  }
+  .cv-button:hover {
+    background-color: #0066b3 !important;
+    color: #ffffff !important;
+  }
+</style>
+
+<a href="/files/cv.pdf" target="_blank" rel="noopener noreferrer" class="cv-button">
+  Download Full CV (PDF)
+</a>
 
 <p><small><em>(A complete list of course projects, research details, and full descriptions is available in the PDF above)</em></small></p>
 
