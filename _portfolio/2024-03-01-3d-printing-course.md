@@ -13,5 +13,5 @@ Completed a 56-hour training program with Digital Opportunity Trust (DOT) Jordan
 </p>
 
 <div style="margin-top: 15px;">
-  <img src="/images/dot_project.jpeg" alt="Automated Monitoring System" style="width: 100%; max-width: 400px; border-radius: 8px; display: block;" />
+  <img src="/images/3d_printing.jpeg" alt="Automated Monitoring System" style="width: 100%; max-width: 400px; border-radius: 8px; display: block;" />
 </div>
