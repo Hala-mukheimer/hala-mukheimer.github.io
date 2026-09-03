@@ -6,4 +6,4 @@ year: "2025"
 
 Successfully completed and presented the final graduation capstone project at the University of Jordan, evaluating Proximal Policy Optimization (PPO) algorithms for drone navigation in dense indoor environments using Microsoft AirSim.
 
-<img src="/images/uav_graduation.jpeg" alt="Graduation Project Presentation" style="width:100%; max-width:350px; border-radius: 8px; margin-top: 15px;" />
+<img src="/images/uav_graduation.jpeg" alt="Graduation Project Presentation" style="width:100%; max-width:400px; border-radius: 8px; margin-top: 15px;" />
