@@ -9,4 +9,4 @@ Led an academic volunteer committee dedicated to empowering Electrical and Compu
 * **Role:** President
 * **Organization:** <a href="https://engzenon.com/home" target="_blank" rel="noopener noreferrer">Zenon ECE Academic Committee</a>
 
-<img src="/images/zenon_celebration.jpeg" alt="Zenon ECE Annual Celebration" style="width:100%; max-width:350px; border-radius: 8px; margin-top: 15px; border: none !important; box-shadow: none !important; outline: none !important;">
+<img src="/images/zenon_celebration.jpeg" alt="Zenon ECE Annual Celebration" style="width:100%; max-width:350px; border-radius: 8px; margin-top: 15px;" />
