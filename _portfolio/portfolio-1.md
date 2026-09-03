@@ -1,7 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "Completion of Undergraduate Graduation Project"
+date: 2025-06-01
+toc: false
+header:
+  teaser: "/images/uav_graduation.jpg"
+excerpt: "Successfully presented the final capstone project on autonomous UAV navigation."
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Successfully completed and presented the final graduation capstone project at the University of Jordan, evaluating Proximal Policy Optimization (PPO) algorithms for drone navigation in dense indoor environments using Microsoft AirSim.
+
+<img src="/images/uav_graduation.jpg" alt="Graduation Project Presentation" style="width:100%; max-width:650px; border-radius: 8px; margin-top: 15px; margin-bottom: 15px;" />
