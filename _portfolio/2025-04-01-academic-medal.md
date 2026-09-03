@@ -4,7 +4,7 @@ date: 2025-04-01
 year: "2025"
 ---
 
-Recognized with an academic support medal for dedication to helping engineering students navigate challenging coursework, creating educational materials, and providing academic mentorship across the department.
+Awarded First Place across all university majors by Ahl Al Hemmeh at the University of Jordan in recognition of my academic mentorship and creation of comprehensive study resources for fellow students.
 
 
 <img src="/images/academic_medal.jpeg" alt="Academic Support Medal" style="width:100%; max-width:350px; border-radius: 8px; margin-top: 15px;" />
