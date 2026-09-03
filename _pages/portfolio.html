@@ -9,7 +9,7 @@ A timeline of academic achievements, leadership roles, engineering workshops, an
 
 {% assign posts = site.portfolio | sort: 'date' | reverse %}
 {% for post in posts %}
-  <div style="margin-bottom: 3em; padding-bottom: 2em; border-bottom: 1px solid #eaeaea;">
+  <div style="margin-bottom: 3em; padding-bottom: 2em; border-bottom: none;">
     <h2 style="margin-bottom: 0.2em; font-size: 1.4em; color: #222;">{{ post.title }}</h2>
     {% if post.year %}
       <div style="color: #666; font-size: 0.95em; font-weight: 600; margin-bottom: 0.8em;">{{ post.year }}</div>
