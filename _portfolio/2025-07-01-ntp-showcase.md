@@ -1,6 +1,6 @@
 ---
 title: "National Technology Parade (NTP) Showcase"
-date: 2025-05-01
+date: 2025-07-01
 toc: false
 header:
   teaser: "/images/ntp_showcase.jpeg"
