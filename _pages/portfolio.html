@@ -1,14 +1,15 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Portfolio & Milestones"
 permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
+A timeline of academic achievements, leadership roles, engineering workshops, and community involvement.
 
+---
 
-{% for post in site.portfolio %}
+{% assign posts = site.portfolio | sort: 'date' | reverse %}
+{% for post in posts %}
   {% include archive-single.html %}
 {% endfor %}
-
