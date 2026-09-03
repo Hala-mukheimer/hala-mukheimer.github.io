@@ -3,7 +3,7 @@ title: "Academic Support Excellence Award"
 date: 2025-04-01
 toc: false
 header:
-  teaser: "/images/academic_medal.jpg"
+  teaser: "/images/academic_medal.jpeg"
 excerpt: "Awarded a medal for outstanding academic assistance and peer mentorship."
 ---
 
