@@ -3,7 +3,7 @@ title: "Zenon ECE Annual Celebration & Leadership"
 date: 2024-10-01
 toc: false
 header:
-  teaser: "/images/zenon_celebration.jpg"
+  teaser: "/images/zenon_celebration.jpeg"
 excerpt: "Led the annual celebration and completed tenure as President of the Zenon ECE Academic Committee."
 ---
 
