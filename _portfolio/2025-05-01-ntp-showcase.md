@@ -3,7 +3,7 @@ title: "National Technology Parade (NTP) Showcase"
 date: 2025-05-01
 toc: false
 header:
-  teaser: "/images/ntp_showcase.jpg"
+  teaser: "/images/ntp_showcase.jpeg"
 excerpt: "Presented applied engineering research and prototypes at the National Technology Parade."
 ---
 
