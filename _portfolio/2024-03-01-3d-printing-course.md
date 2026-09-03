@@ -3,7 +3,7 @@ title: "3D Printing & Additive Manufacturing Workshop"
 date: 2024-03-01
 toc: false
 header:
-  teaser: "/images/3d_printing.jpg"
+  teaser: "/images/3d_printing.jpeg"
 excerpt: "Completed practical training on 3D CAD design, slicing workflows, and rapid prototyping."
 ---
 
