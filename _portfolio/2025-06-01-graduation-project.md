@@ -3,7 +3,7 @@ title: "Completion of Undergraduate Graduation Project"
 date: 2025-06-01
 toc: false
 header:
-  teaser: "/images/uav_graduation.jpg"
+  teaser: "/images/uav_graduation.jpeg"
 excerpt: "Successfully presented the final capstone project on autonomous UAV navigation."
 ---
 
