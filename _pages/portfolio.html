@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Portfolio & Milestones"
 permalink: /portfolio/
 author_profile: true
@@ -11,5 +11,14 @@ A timeline of academic achievements, leadership roles, engineering workshops, an
 
 {% assign posts = site.portfolio | sort: 'date' | reverse %}
 {% for post in posts %}
-  {% include archive-single.html %}
+  <div style="margin-bottom: 2.5em; padding-bottom: 1.5em; border-bottom: 1px solid #e0e0e0;">
+    <h2 style="margin-bottom: 0.2em; font-size: 1.5em;">{{ post.title }}</h2>
+    {% if post.year %}
+      <p style="color: #666; font-size: 0.9em; margin-top: 0; margin-bottom: 0.8em;"><em>{{ post.year }}</em></p>
+    {% endif %}
+    
+    <div>
+      {{ post.content }}
+    </div>
+  </div>
 {% endfor %}
