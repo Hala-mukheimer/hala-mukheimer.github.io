@@ -31,10 +31,10 @@ Outside of research, I'm passionate about nature photography, visual design, and
     <img src="/images/hphoto4.jpeg" alt="Photo 7" style="width: 100%; border-radius: 8px; display: block;" />
   </div>
   <div style="break-inside: avoid; margin-bottom: 15px;">
-    <img src="/images/vphoto5.jpeg" alt="Photo 8" style="width: 100%; border-radius: 8px; display: block;" />
+    <img src="/images/vphoto10.jpeg" alt="Photo 8" style="width: 100%; border-radius: 8px; display: block;" />
   </div>
   <div style="break-inside: avoid; margin-bottom: 15px;">
-    <img src="/images/hphoto8.jpeg" alt="Photo 9" style="width: 100%; border-radius: 8px; display: block;" />
+    <img src="/images/hphoto3.jpeg" alt="Photo 9" style="width: 100%; border-radius: 8px; display: block;" />
   </div>
   <div style="break-inside: avoid; margin-bottom: 15px;">
     <img src="/images/vphoto2.jpeg" alt="Photo 10" style="width: 100%; border-radius: 8px; display: block;" />
@@ -49,10 +49,10 @@ Outside of research, I'm passionate about nature photography, visual design, and
     <img src="/images/hphoto7.jpeg" alt="Photo 13" style="width: 100%; border-radius: 8px; display: block;" />
   </div>
   <div style="break-inside: avoid; margin-bottom: 15px;">
-    <img src="/images/vphoto10.jpeg" alt="Photo 14" style="width: 100%; border-radius: 8px; display: block;" />
+    <img src="/images/vphoto5.jpeg" alt="Photo 14" style="width: 100%; border-radius: 8px; display: block;" />
   </div>
   <div style="break-inside: avoid; margin-bottom: 15px;">
-    <img src="/images/hphoto3.jpeg" alt="Photo 15" style="width: 100%; border-radius: 8px; display: block;" />
+    <img src="/images/hphoto8.jpeg" alt="Photo 15" style="width: 100%; border-radius: 8px; display: block;" />
   </div>
   <div style="break-inside: avoid; margin-bottom: 15px;">
     <img src="/images/vphoto9.jpeg" alt="Photo 16" style="width: 100%; border-radius: 8px; display: block;" />
