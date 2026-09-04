@@ -5,12 +5,10 @@ permalink: /other/
 author_profile: true
 ---
 
-A collection of photography, personal projects, and activities outside of academic research.
+I absolutely love capturing moments through photography—especially in nature. Beyond research, I enjoy travelling, reading, design and visual illustration, and crafting, with a soft spot for painting. I'm always looking for new things to explore!
 
----
 
-## Photography & Visuals
-Exploring perspectives through photography, travel, and graphic design.
+## Photography 
 
 <div style="column-count: 3; column-gap: 15px; margin-top: 20px; margin-bottom: 25px;">
   <!-- Interleaved Vertical & Horizontal Images for Masonry Balance -->
@@ -72,6 +70,4 @@ Exploring perspectives through photography, travel, and graphic design.
 
 ---
 
-## Hobbies & Community
-* **Graphic & Social Media Design:** Designing visual assets, branding, and promotional materials.
-* **Tech Community & Mentorship:** Organizing community events, student outreach, and tech discussions.
+
