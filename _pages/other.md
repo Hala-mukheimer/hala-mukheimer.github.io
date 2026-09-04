@@ -5,7 +5,7 @@ permalink: /other/
 author_profile: true
 ---
 
-I absolutely love capturing moments through photography—especially in nature. Beyond research, I enjoy travelling, reading, design and visual illustration, and crafting, with a soft spot for painting. I'm always looking for new things to explore!
+Outside of research, I'm passionate about nature photography, visual design, and staying active. Whether it's painting, travelling, basketball, cooking, riding jet skis, or getting lost in a good book, my list of hobbies is always growing—I'm simply drawn to anything creative, active, or adventurous!
 
 
 ## Photography 
@@ -31,7 +31,7 @@ I absolutely love capturing moments through photography—especially in nature. 
     <img src="/images/vphoto4.jpeg" alt="Photo 6" style="width: 100%; border-radius: 8px; display: block;" />
   </div>
   <div style="break-inside: avoid; margin-bottom: 15px;">
-    <img src="/images/hphoto3.jpeg" alt="Photo 7" style="width: 100%; border-radius: 8px; display: block;" />
+    <img src="/images/hphoto8.jpeg" alt="Photo 7" style="width: 100%; border-radius: 8px; display: block;" />
   </div>
   <div style="break-inside: avoid; margin-bottom: 15px;">
     <img src="/images/vphoto5.jpeg" alt="Photo 8" style="width: 100%; border-radius: 8px; display: block;" />
@@ -61,7 +61,7 @@ I absolutely love capturing moments through photography—especially in nature. 
     <img src="/images/vphoto9.jpeg" alt="Photo 16" style="width: 100%; border-radius: 8px; display: block;" />
   </div>
   <div style="break-inside: avoid; margin-bottom: 15px;">
-    <img src="/images/hphoto8.jpeg" alt="Photo 17" style="width: 100%; border-radius: 8px; display: block;" />
+    <img src="/images/hphoto3.jpeg" alt="Photo 17" style="width: 100%; border-radius: 8px; display: block;" />
   </div>
   <div style="break-inside: avoid; margin-bottom: 15px;">
     <img src="/images/vphoto10.jpeg" alt="Photo 18" style="width: 100%; border-radius: 8px; display: block;" />
