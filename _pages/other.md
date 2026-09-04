@@ -28,9 +28,6 @@ Outside of research, I'm passionate about nature photography, visual design, and
     <img src="/images/vphoto3.jpeg" alt="Photo 5" style="width: 100%; border-radius: 8px; display: block;" />
   </div>
   <div style="break-inside: avoid; margin-bottom: 15px;">
-    <img src="/images/vphoto4.jpeg" alt="Photo 6" style="width: 100%; border-radius: 8px; display: block;" />
-  </div>
-  <div style="break-inside: avoid; margin-bottom: 15px;">
     <img src="/images/hphoto8.jpeg" alt="Photo 7" style="width: 100%; border-radius: 8px; display: block;" />
   </div>
   <div style="break-inside: avoid; margin-bottom: 15px;">
@@ -65,9 +62,6 @@ Outside of research, I'm passionate about nature photography, visual design, and
   </div>
   <div style="break-inside: avoid; margin-bottom: 15px;">
     <img src="/images/vphoto8.jpeg" alt="Photo 18" style="width: 100%; border-radius: 8px; display: block;" />
-  </div>
-  <div style="break-inside: avoid; margin-bottom: 15px;">
-    <img src="/images/hphoto9.jpeg" alt="Photo 19" style="width: 100%; border-radius: 8px; display: block;" />
   </div>
   <div style="break-inside: avoid; margin-bottom: 15px;">
     <img src="/images/hphoto10.jpeg" alt="Photo 20" style="width: 100%; border-radius: 8px; display: block;" />
